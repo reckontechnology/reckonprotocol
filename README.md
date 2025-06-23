@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @reckonprotocol
+- 👋 Hi, I’m @reckon technology
 - 👀 I’m interested in ... build Bapp
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ... blockchain dev
